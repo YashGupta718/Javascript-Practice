@@ -15,12 +15,11 @@
     /* text-align: center; */
     justify-content: center;
 }
-
+ 
 .flexboxContainer div{
-    /* box-sizing: border-box; */
     padding: 20px;
     margin: 10px;   
-}
+} 
 
 button{
     background-color: lightcoral;
