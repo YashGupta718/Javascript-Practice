@@ -1,0 +1,40 @@
+h2{
+   font-size:xx-large;
+   text-shadow: 10px 10px 10px rgba(0, 0, 0, 1);
+}
+
+.btn{
+   background-color: green;
+   color: honeydew; 
+   font-size: 17px;
+   width: 140px;
+   height: 35px;
+   border-radius: 5px;
+   box-shadow: 10px 10px 7px rgba(0, 0, 0, 2);
+}
+
+.btn:hover{
+   background-color: darkgreen;
+}
+
+.container1{
+   border: 1px solid black;
+   width: 70%;
+   margin: 30px auto; 
+   
+}
+
+.flexBoxContainer1{
+   margin-top: 20px;
+   border: 1px solid blue;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   /* padding: 20px; */
+}
+
+img{
+   height: 150px;
+   margin: 20px;
+   box-shadow: 7px 10px 30px rgba(0, 0, 0, 1);
+}

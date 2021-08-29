@@ -1,0 +1,41 @@
+.container1 {
+    border: 1px solid blue;
+    text-align: center;
+    width: 70%; 
+    /* padding: auto; */
+    margin: 100px auto;
+    /* align-content: space-around; */
+}
+
+.flexboxContainer{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* text-align: center; */
+    justify-content: center;
+}
+
+.flexboxContainer div{
+    /* box-sizing: border-box; */
+    padding: 20px;
+    margin: 10px;   
+}
+
+button{
+    background-color: lightcoral;
+    color: white;
+    border-radius: 7px;
+    width: 100px;
+    height: 40px;
+    font-size: 15px;
+}
+
+#btn1{
+    background-color: rgb(21, 86, 228);
+}
+
+#btn2{
+    background-color: rgb(156, 0, 0);
+    width: 60px;
+}
