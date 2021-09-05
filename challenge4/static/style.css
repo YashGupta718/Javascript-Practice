@@ -1,0 +1,14 @@
+.container1{
+    width: 80%;
+    text-align: center;
+    margin: 10px auto;
+    padding: 10px;
+    /* border: 1px solid blueviolet; */
+}
+
+.flexBox-buttonColor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 40px;
+}
